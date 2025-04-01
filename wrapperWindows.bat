@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 if "%~1" == "" (
-    set "input_file=js.txt"
+    set "input_file=js-list.txt"
 ) else (
     set "input_file=%~1"
 )
