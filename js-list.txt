@@ -1,0 +1,3 @@
+https://127.0.0.1:8443/ui/main.js
+https://127.0.0.1:8443/ui/ap/index.js
+https://127.0.0.1:8443/bank/purchase.js
